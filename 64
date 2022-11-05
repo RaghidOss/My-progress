@@ -1,5 +1,0 @@
-
-L = [10, 11, 12, 13, 14, 15]
-new_list = [L[len(L)- i]
-            for i in range (1, len(L)+1)]
-print(new_list)
